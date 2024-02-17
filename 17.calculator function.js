@@ -1,5 +1,5 @@
 //Run this code in a browser console to see the full functionality
-//Right click and go to inspect and go to console
+//Open a browser--> Right click--> go to inspect--> go to console
 
 var x=parseInt(prompt("Enter a number "));
 var y=parseInt(prompt("Enter another number "));
